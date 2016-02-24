@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	log "github.com/parampavar/helloGo/Godeps/_workspace/src/github.com/cihub/seelog"
+	log "github.com/cihub/seelog"
 )
 
 // const (
